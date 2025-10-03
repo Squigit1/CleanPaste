@@ -1,4 +1,4 @@
-# CleanPaste 📝✨
+# CleanPaste 
 
 A cross-platform tool that automatically strips formatting from your clipboard 
 so that when you paste, you always get clean, plain text.
