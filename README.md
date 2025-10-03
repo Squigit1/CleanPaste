@@ -23,5 +23,12 @@ Clone this repository and install the dependencies:
 git clone https://github.com/yourusername/CleanPaste.git
 cd CleanPaste
 pip install -r requirements.txt
+```
+
+## ⚙️ Platform Support
+
+- **macOS**: Works, but you must grant Accessibility permissions for hotkeys (System Settings → Privacy & Security → Accessibility).
+- **Windows**: Works out of the box.
+- **Linux**: Works, but requires `xclip` or `xsel` installed for clipboard access.
 
 
