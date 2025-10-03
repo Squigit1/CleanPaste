@@ -5,7 +5,7 @@ It helps when pasting between apps (e.g., from a browser into Word, or from Docs
 
 ---
 
-## ✨ Features
+## Features
 - Cleans copied text in real time (removes invisible/extra characters).
 - Works cross-platform (macOS, Windows, Linux).
 - Simple hotkeys:
@@ -15,7 +15,7 @@ It helps when pasting between apps (e.g., from a browser into Word, or from Docs
 
 ---
 
-## 📦 Installation
+## Installation
 
 Clone this repository and install the dependencies:
 
