@@ -15,6 +15,14 @@ It helps when pasting between apps (e.g., from a browser into Word, or from Docs
 
 ---
 
+## ⚙️ Platform Support
+
+- **macOS**: Works, but you must grant Accessibility permissions for hotkeys (System Settings → Privacy & Security → Accessibility).
+- **Windows**: Works out of the box.
+- **Linux**: Works, but requires `xclip` or `xsel` installed for clipboard access.
+
+---
+
 ## Installation
 
 Clone this repository and install the dependencies:
@@ -25,10 +33,5 @@ cd CleanPaste
 pip install -r requirements.txt
 ```
 
-## ⚙️ Platform Support
-
-- **macOS**: Works, but you must grant Accessibility permissions for hotkeys (System Settings → Privacy & Security → Accessibility).
-- **Windows**: Works out of the box.
-- **Linux**: Works, but requires `xclip` or `xsel` installed for clipboard access.
 
 
