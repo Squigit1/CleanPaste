@@ -7,7 +7,7 @@ It helps when pasting between apps (e.g., from a browser into Word, or from Docs
 
 ## Features
 - Cleans copied text in real time (removes invisible/extra characters).
-- Works cross-platform (macOS, Windows, Linux).
+- Works cross-platform (with a few caveats — see below).
 - Simple hotkeys:
   - **F12** → Toggle cleaning ON/OFF
   - **F11** → Quit program
@@ -23,4 +23,5 @@ Clone this repository and install the dependencies:
 git clone https://github.com/yourusername/CleanPaste.git
 cd CleanPaste
 pip install -r requirements.txt
+
 
